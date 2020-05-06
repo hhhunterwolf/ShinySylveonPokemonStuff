@@ -1,0 +1,431 @@
+{
+    "magnemite":{
+        "gender": "unknown"
+    },
+    "magneton":{
+        "gender": "unknown"
+    },
+    "voltorb":{
+        "gender": "unknown"
+    },
+    "electrode":{
+        "gender": "unknown"
+    },
+    "staryu":{
+        "gender": "unknown"
+    },
+    "starmie":{
+        "gender": "unknown"
+    },
+    "ditto":{
+        "gender": "unknown"
+    },
+    "porygon":{
+        "gender": "unknown"
+    },
+    "articuno":{
+        "gender": "unknown"
+    },
+    "zapdos":{
+        "gender": "unknown"
+    },
+    "moltres":{
+        "gender": "unknown"
+    },
+    "mewtwo":{
+        "gender": "unknown"
+    },
+    "mew":{
+        "gender": "unknown"
+    },
+    "unown":{
+        "gender": "unknown"
+    },
+    "porygon2":{
+        "gender": "unknown"
+    },
+    "raikou":{
+        "gender": "unknown"
+    },
+    "entei":{
+        "gender": "unknown"
+    },
+    "suicune":{
+        "gender": "unknown"
+    },
+    "lugia":{
+        "gender": "unknown"
+    },
+    "hooh":{
+        "gender": "unknown"
+    },
+    "celebi":{
+        "gender": "unknown"
+    },
+    "shedinja":{
+        "gender": "unknown"
+    },
+    "lunatone":{
+        "gender": "unknown"
+    },
+    "solrock":{
+        "gender": "unknown"
+    },
+    "baltoy":{
+        "gender": "unknown"
+    },
+    "claydol":{
+        "gender": "unknown"
+    },
+    "beldum":{
+        "gender": "unknown"
+    },
+    "metang":{
+        "gender": "unknown"
+    },
+    "metagross":{
+        "gender": "unknown"
+    },
+    "regirock":{
+        "gender": "unknown"
+    },
+    "regice":{
+        "gender": "unknown"
+    },
+    "registeel":{
+        "gender": "unknown"
+    },
+    "kyogre":{
+        "gender": "unknown"
+    },
+    "groudon":{
+        "gender": "unknown"
+    },
+    "rayquaza":{
+        "gender": "unknown"
+    },
+    "jirachi":{
+        "gender": "unknown"
+    },
+    "deoxys":{
+        "gender": "unknown"
+    },
+    "bronzor":{
+        "gender": "unknown"
+    },
+    "bronzong":{
+        "gender": "unknown"
+    },
+    "magnezone":{
+        "gender": "unknown"
+    },
+    "porygonz":{
+        "gender": "unknown"
+    },
+    "rotom":{
+        "gender": "unknown"
+    },
+    "uxie":{
+        "gender": "unknown"
+    },
+    "mesprit":{
+        "gender": "unknown"
+    },
+    "azelf":{
+        "gender": "unknown"
+    },
+    "dialga":{
+        "gender": "unknown"
+    },
+    "palkia":{
+        "gender": "unknown"
+    },
+    "regigigas":{
+        "gender": "unknown"
+    },
+    "giratina":{
+        "gender": "unknown"
+    },
+    "phione":{
+        "gender": "unknown"
+    },
+    "manaphy":{
+        "gender": "unknown"
+    },
+    "darkrai":{
+        "gender": "unknown"
+    },
+    "shaymin":{
+        "gender": "unknown"
+    },
+    "arceus":{
+        "gender": "unknown"
+    },
+    "victini":{
+        "gender": "unknown"
+    },
+    "klink":{
+        "gender": "unknown"
+    },
+    "klang":{
+        "gender": "unknown"
+    },
+    "klinklang":{
+        "gender": "unknown"
+    },
+    "cryogonal":{
+        "gender": "unknown"
+    },
+    "golett":{
+        "gender": "unknown"
+    },
+    "golurk":{
+        "gender": "unknown"
+    },
+    "cobalion":{
+        "gender": "unknown"
+    },
+    "terrakion":{
+        "gender": "unknown"
+    },
+    "virizion":{
+        "gender": "unknown"
+    },
+    "reshiram":{
+        "gender": "unknown"
+    },
+    "zekrom":{
+        "gender": "unknown"
+    },
+    "kyurem":{
+        "gender": "unknown"
+    },
+    "keldeo":{
+        "gender": "unknown"
+    },
+    "meloetta":{
+        "gender": "unknown"
+    },
+    "genesect":{
+        "gender": "unknown"
+    },
+    "carbink":{
+        "gender": "unknown"
+    },
+    "xerneas":{
+        "gender": "unknown"
+    },
+    "yveltal":{
+        "gender": "unknown"
+    },
+    "zygarde":{
+        "gender": "unknown"
+    },
+    "hoopa":{
+        "gender": "unknown"
+    },
+    "volcanion":{
+        "gender": "unknown"
+    },
+    "type:null":{
+        "gender": "unknown"
+    },
+    "silvally":{
+        "gender": "unknown"
+    },
+    "minior":{
+        "gender": "unknown"
+    },
+    "dhelmise":{
+        "gender": "unknown"
+    },
+    "tapukoko":{
+        "gender": "unknown"
+    },
+    "tapubulu":{
+        "gender": "unknown"
+    },
+    "tapulele":{
+        "gender": "unknown"
+    },
+    "tapufini":{
+        "gender": "unknown"
+    },
+    "cosmog":{
+        "gender": "unknown"
+    },
+    "cosmoem":{
+        "gender": "unknown"
+    },
+    "solgaleo":{
+        "gender": "unknown"
+    },
+    "lunala":{
+        "gender": "unknown"
+    },
+    "nihilego":{
+        "gender": "unknown"
+    },
+    "buzzwole":{
+        "gender": "unknown"
+    },
+    "pheromosa":{
+        "gender": "unknown"
+    },
+    "xurkitree":{
+        "gender": "unknown"
+    },
+    "celesteela":{
+        "gender": "unknown"
+    },
+    "kartana":{
+        "gender": "unknown"
+    },
+    "guzzlord":{
+        "gender": "unknown"
+    },
+    "necrozma":{
+        "gender": "unknown"
+    },
+    "magearna":{
+        "gender": "unknown"
+    },
+    "marshadow":{
+        "gender": "unknown"
+    },
+    "poipole":{
+        "gender": "unknown"
+    },
+    "naganadel":{
+        "gender": "unknown"
+    },
+    "stakataka":{
+        "gender": "unknown"
+    },
+    "blacephalon":{
+        "gender": "unknown"
+    },
+    "zeraora":{
+        "gender": "unknown"
+    },
+    "meltan":{
+        "gender": "unknown"
+    },
+    "melmetal":{
+        "gender": "unknown"
+    },
+    "nidoranm":{
+        "gender": "male"
+    },
+    "nidorino":{
+        "gender": "male"
+    },
+    "nidoking":{
+        "gender": "male"
+    },
+    "tauros":{
+        "gender": "male"
+    },
+    "volbeat":{
+        "gender": "male"
+    },
+    "latios":{
+        "gender": "male"
+    },
+    "mothim":{
+        "gender": "male"
+    },
+    "rufflet":{
+        "gender": "male"
+    },
+    "braviary":{
+        "gender": "male"
+    },
+    "hitmonlee":{
+        "gender": "male"
+    },
+    "hitmonchan":{
+        "gender": "male"
+    },
+    "tyrouge":{
+        "gender": "male"
+    },
+    "hitmontop":{
+        "gender": "male"
+    },
+    "gallade":{
+        "gender": "male"
+    },
+    "throh":{
+        "gender": "male"
+    },
+    "sawk":{
+        "gender": "male"
+    },
+    "tornadus":{
+        "gender": "male"
+    },
+    "thundurus":{
+        "gender": "male"
+    },
+    "landorus":{
+        "gender": "male"
+    },
+    "chansey":{
+        "gender": "female"
+    },
+    "kangaskhan":{
+        "gender": "female"
+    },
+    "jynx":{
+        "gender": "female"
+    },
+    "smoochum":{
+        "gender": "female"
+    },
+    "blissey":{
+        "gender": "female"
+    },
+    "happiny":{
+        "gender": "female"
+    },
+    "vespiquen":{
+        "gender": "female"
+    },
+    "froslass":{
+        "gender": "female"
+    },
+    "cresselia":{
+        "gender": "female"
+    },
+    "petilil":{
+        "gender": "female"
+    },
+    "lilligant":{
+        "gender": "female"
+    },
+    "flabebe":{
+        "gender": "female"
+    },
+    "floette":{
+        "gender": "female"
+    },
+    "florges":{
+        "gender": "female"
+    },
+    "salazzle":{
+        "gender": "female"
+    },
+    "bounsweet":{
+        "gender": "female"
+    },
+    "steenee":{
+        "gender": "female"
+    },
+    "tsareena":{
+        "gender": "female"
+    },
+    "gardevoir":{
+        "gender": "female"
+    }
+    }
